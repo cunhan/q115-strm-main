@@ -1,0 +1,12 @@
+
+/build
+/dist
+115-cookies.txt
+*.exe
+*.log
+poetry.lock
+/data/config/*
+__pycache__
+.input
+a.json
+rmstrm.py
