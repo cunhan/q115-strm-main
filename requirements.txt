@@ -1,3 +1,4 @@
+sqlitetools
 p115client
 flask
 flask_restful
